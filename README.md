@@ -45,8 +45,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Gokkul M
+### Register Number: 212223240039
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
